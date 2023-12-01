@@ -1,6 +1,8 @@
 let heroi = "HULK";
 let nivel = ""
-let xp = 1000
+
+
+let xp = 1000 //Adicione o XP do Herói para saber o nivel
 
 
 if (xp <= 1000) {
